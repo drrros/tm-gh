@@ -1,0 +1,9 @@
+body {
+    background-color: #ebeff5;
+}
+
+.tableRow:hover {
+    box-shadow: 5px 5px 27px 0px rgba(0,0,0,0.35);
+    transition-duration: 0.7s;
+    transition-property: box-shadow;
+}
